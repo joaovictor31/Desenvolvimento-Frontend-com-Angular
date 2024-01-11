@@ -1,0 +1,23 @@
+{
+  "name": "desenvolvimento-frontend-com-angular",
+  "version": "1.0.0",
+  "description": "Este repositório contém os códigos desenvolvidos durante o Bootcamp de Desenvolvimento Frontend com Angular da Digital Innovation One (DIO). O bootcamp é parte do programa Coding The Future do Banco PAN, oferecendo a oportunidade de aprimorar habilidades práticas na construção de aplicações web modernas e responsivas, ao mesmo tempo em que treina recursos de Inteligência Artificial para se tornar um desenvolvedor completo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaovictor31/Desenvolvimento-Frontend-com-Angular.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaovictor31/Desenvolvimento-Frontend-com-Angular/issues"
+  },
+  "homepage": "https://github.com/joaovictor31/Desenvolvimento-Frontend-com-Angular#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
